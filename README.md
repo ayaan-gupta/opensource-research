@@ -2,7 +2,7 @@
 
 This repository contains original technical research produced during the **2025–2026 FIRST Tech Challenge (FTC) DECODE season**. We are open-sourcing these papers to share novel engineering work with the broader FTC and robotics community.
 
-**Author:** William Wang
+**Authors:** William Wang, Ayaan Gupta, Mutasim Mohammed
 
 ---
 
@@ -63,6 +63,6 @@ If you use this research, a citation or shout-out to the team is always apprecia
 ## 📖 Citation
 
 ```
-Wang, W. (2025). 6 Wheeled Mecanum Drive for FTC.
-Wang, W. (2026). Motion Blur in Cameras: Field of View Analysis for Fiducial Marker Detection (DECODE_Fov).
+Wang, W., Gupta, A., & Mohammed, M. (2025). 6 Wheeled Mecanum Drive for FTC.
+Wang, W., Gupta, A., & Mohammed, M. (2026). Motion Blur in Cameras: Field of View Analysis for Fiducial Marker Detection (DECODE_Fov).
 ```
